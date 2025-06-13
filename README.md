@@ -1,0 +1,1 @@
+This project demonstrates how to self-host web fonts for improved performance, privacy, and offline reliability. By hosting fonts yourself, you avoid external requests to third-party servers like Google Fonts.
